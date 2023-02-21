@@ -1,10 +1,4 @@
 import numpy as np
-'''
-1.txt2boxes
-    将所有真实框数据的宽高信息放到 all_boxes 列表中
-2.kmeans
-    
-'''
 
 class YOLO_Kmeans:
 

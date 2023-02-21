@@ -1,6 +1,3 @@
-"""
-训练口罩检测数据集
-"""
 
 import numpy as np
 import tensorflow.keras.backend as K

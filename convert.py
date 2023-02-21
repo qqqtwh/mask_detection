@@ -1,7 +1,7 @@
 """
 Reads Darknet config and weights and creates Keras model with TF backend.
 根据 Draknet框架的 yolo3-tiny 的 cfg 和 weights 文件，生成 Keras 版本的h5模型
-改程序只适合转换yolo3-tiny模型
+改程序只适合转换yolo3-tiny模型#
 """
 
 import argparse

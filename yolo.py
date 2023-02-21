@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-使用训练好的模型在图片和视频上进行人脸口罩佩戴检测
-"""
+
 
 import colorsys
 import os

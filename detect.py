@@ -1,4 +1,4 @@
-import sys
+
 import argparse
 from yolo import YOLO, detect_video
 from PIL import Image

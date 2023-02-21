@@ -1,0 +1,86 @@
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss1.png 321,34,354,69,0 224,38,261,73,0 299,58,315,81,0 143,74,174,115,0 74,69,95,99,0 191,67,221,93,0 21,73,44,93,0 369,70,398,99,0 83,56,111,89,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss101.png 48,294,164,400,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss103.png 42,54,94,110,0 188,46,236,106,0 261,88,303,130,0 368,112,400,151,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss109.png 216,92,372,251,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss115.png 24,67,47,91,0 79,91,103,112,0 109,80,128,101,0 137,88,159,110,0 179,107,205,134,0 254,105,278,128,0 221,78,244,100,0 172,86,183,107,0 185,85,209,104,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss12.png 72,71,90,88,0 119,70,137,88,0 163,76,185,96,0 36,70,46,82,0 120,55,132,68,0 94,59,102,69,0 153,61,171,81,0 335,70,353,87,0 273,58,290,75,0 232,61,249,78,0 298,61,312,84,1 354,54,365,68,0 38,82,45,98,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss136.png 100,105,152,158,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss137.png 38,143,53,161,1 76,146,95,164,1 114,142,131,163,0 158,165,175,185,0 217,153,241,174,1 283,158,310,181,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss139.png 2,28,19,46,0 23,36,45,59,0 30,71,51,92,1 4,177,35,209,0 93,15,117,34,0 99,74,122,100,0 36,152,65,183,0 138,191,165,221,0 182,13,209,36,0 188,55,213,80,0 196,146,219,168,0 213,164,243,193,0 253,13,277,35,0 246,73,268,98,0 286,10,314,38,0 320,1,341,15,0 345,34,372,57,0 358,116,388,141,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss147.png 103,9,120,33,1 198,15,218,36,0 224,89,243,109,0 272,33,294,55,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss154.png 90,200,184,333,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss169.png 152,262,220,367,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss184.png 143,44,169,73,0 171,37,195,65,0 250,25,274,46,0 256,49,283,76,0 262,116,294,145,0 294,43,316,63,0 334,38,350,57,0 320,40,335,57,0 374,47,386,61,0 83,11,109,49,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss185.png 89,139,121,187,0 115,112,139,154,0 165,102,195,126,0 270,69,288,86,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss198.png 118,19,295,184,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss207.png 34,87,51,103,0 167,91,211,140,0 281,95,316,125,0 347,87,400,171,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss22.png 183,101,270,185,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss221.png 21,211,53,242,0 129,187,161,219,0 208,189,234,223,0 350,217,395,251,0 377,151,389,162,0 255,156,260,165,0 229,153,234,159,0 155,156,161,163,0 112,158,119,166,1 299,182,304,190,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss223.png 143,92,166,119,0 138,51,169,67,0 247,135,271,170,0 224,105,240,135,0 274,54,284,65,0 30,50,38,58,1 199,43,209,56,1 298,39,306,52,1 224,83,239,97,1 352,73,363,82,0 367,76,382,92,1 371,100,382,123,1 381,76,393,88,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss233.png 109,117,180,198,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss235.png 310,80,342,116,0 221,104,231,119,0 247,106,264,118,0 265,103,274,114,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss25.png 122,68,195,152,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss297.png 102,17,112,31,0 87,26,103,41,0 50,125,82,156,0 123,102,148,130,0 157,57,179,82,0 157,4,165,12,0 180,7,187,17,0 217,13,229,24,0 207,44,228,68,0 216,81,241,108,0 250,43,273,67,0 294,22,306,35,1 318,27,332,44,0 310,5,321,17,0 334,3,348,16,0 354,10,367,20,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss311.png 176,38,222,92,0 222,57,252,84,0 300,32,326,57,0 31,34,63,61,0 77,47,107,68,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss327.png 18,84,64,134,1 18,200,69,246,1 112,46,149,73,1 237,137,290,186,0 278,17,322,66,1 342,98,385,140,1 346,218,393,254,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss337.png 115,32,145,70,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss363.png 79,48,97,69,0 116,78,134,101,0 161,79,179,96,0 193,53,209,76,0 327,24,361,64,0 345,87,379,128,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss372.png 95,33,116,59,0 165,19,186,43,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss373.png 20,54,65,105,0 50,99,122,167,0 188,107,225,141,0 207,59,241,87,0 220,81,250,118,0 244,63,303,118,0 330,73,365,107,0 320,31,344,55,1 367,57,391,82,1 398,74,434,114,0 426,125,483,177,0 440,69,468,96,0 427,29,454,54,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss381.png 97,64,120,89,0 163,75,185,95,0 207,70,229,96,0 247,73,267,96,0 356,148,362,156,1 379,135,385,144,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss396.png 24,118,55,151,0 83,140,116,176,0 167,97,210,142,0 269,142,291,165,0 310,86,366,135,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss398.png 153,122,251,223,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss40.png 65,87,106,134,0 203,75,232,114,0 258,77,297,123,0 367,80,394,112,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss409.png 91,208,172,320,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss414.png 119,81,147,117,0 103,42,123,60,0 203,23,226,48,0 314,15,342,46,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss426.png 154,78,313,247,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss428.png 34,153,63,175,0 87,140,111,161,0 116,133,135,153,0 138,207,168,234,0 177,115,203,138,0 292,110,324,138,0 366,133,382,153,0 205,95,220,115,0 245,87,255,104,0 218,63,232,78,0 180,56,191,68,0 58,110,72,128,0 55,92,65,103,0 134,105,151,120,0 121,64,130,76,0 56,62,66,74,0 79,81,89,91,0 34,87,43,97,0 27,72,35,80,0 86,54,94,62,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss438.png 78,22,92,36,0 152,13,166,28,0 233,32,246,46,0 293,28,304,46,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss470.png 52,28,100,75,0 95,63,123,91,0 151,58,188,101,0 276,40,304,88,0 344,56,377,90,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss479.png 116,156,225,302,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss483.png 115,47,157,87,0 186,90,231,130,0 307,42,347,84,0 69,64,89,81,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss487.png 2,104,47,156,1 51,61,121,133,0 159,79,218,140,0 215,81,270,139,0 288,58,349,119,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss498.png 92,46,112,67,0 151,59,163,72,0 166,53,179,67,1 175,76,188,86,1 239,53,248,64,0 251,72,264,89,0 292,69,306,89,0 321,56,340,77,1 355,67,375,90,0 130,76,141,85,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss502.png 55,72,115,136,1 112,85,155,136,0 181,56,243,126,1 347,107,398,167,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss52.png 37,166,84,214,1 6,117,47,149,1 2,77,35,99,0 39,65,75,103,0 76,69,92,88,0 92,74,129,113,1 116,132,161,175,0 161,130,195,163,0 209,119,262,170,0 191,84,208,117,0 131,67,157,97,1 221,51,246,77,1 74,31,96,53,1 63,37,77,56,0 41,23,58,40,0 1,34,24,61,0 73,5,84,16,0 94,22,103,33,0 97,34,115,53,0 157,61,173,84,0 145,42,160,56,0 127,31,142,44,0 143,29,160,42,0 129,7,139,19,0 115,10,120,19,0 154,13,163,24,0 159,21,171,32,0 185,20,200,37,1 197,37,214,58,0 194,54,211,73,0 205,6,210,18,0 228,9,236,19,0 250,4,261,16,0 246,51,256,72,1 260,74,285,97,0 270,33,281,49,0 276,9,284,19,1 268,110,279,127,0 284,111,316,150,0 303,147,352,203,0 328,51,352,77,0 378,61,388,84,1 352,48,366,71,0 286,73,307,90,0 310,39,329,58,0 304,16,322,36,0 362,23,370,36,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss536.png 107,158,197,287,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss544.png 145,200,240,324,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss550.png 118,78,239,204,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss555.png 95,111,111,128,0 162,95,179,115,0 256,98,270,114,0 310,108,327,130,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss557.png 58,167,173,317,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss559.png 7,215,50,256,0 64,190,92,219,0 96,161,148,220,0 183,137,214,179,0 120,53,138,72,0 153,22,168,37,0 163,55,177,73,0 194,31,206,42,0 230,32,245,48,0 219,88,234,105,0 257,124,298,165,0 296,43,310,57,0 332,81,347,96,1 259,44,274,60,1 170,108,189,127,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss561.png 81,163,184,279,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss585.png 7,116,55,163,1 110,112,161,161,0 162,134,227,210,0 229,120,255,160,1 267,143,326,200,0 343,129,400,183,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss588.png 81,109,104,138,0 182,69,199,101,0 326,122,354,152,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss591.png 137,101,195,172,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss6.png 254,100,387,260,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss610.png 117,66,141,93,0 122,124,137,139,0 192,22,227,63,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss614.png 103,197,207,332,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss621.png 14,52,68,137,1 191,35,208,54,0 162,111,192,137,0 299,46,386,141,0 218,29,235,48,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss635.png 79,112,232,318,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss650.png 108,73,155,134,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss668.png 38,248,111,354,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss670.png 159,55,194,94,0 219,89,245,120,0 137,114,172,142,0 311,86,327,105,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss678.png 188,50,227,89,0 363,104,389,139,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss690.png 25,54,43,76,0 58,67,76,88,0 132,62,152,85,0 115,51,127,65,0 143,52,154,63,0 154,61,172,77,0 170,55,177,69,0 173,106,192,127,0 186,60,198,74,0 205,58,217,74,0 216,59,233,78,0 238,66,254,84,0 252,71,271,93,0 275,75,297,99,0 282,44,294,61,0 299,55,316,73,0 316,57,332,71,1 345,50,362,67,0 366,53,385,73,0 332,57,341,68,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss698.png 169,168,234,243,0 352,66,400,131,0 28,109,55,147,1 328,87,356,135,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss72.png 112,176,207,291,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss724.png 303,24,328,53,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss736.png 114,40,142,76,0 183,57,221,99,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss744.png 83,81,112,113,0 133,73,139,81,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss753.png 198,136,238,177,0 9,115,17,124,0 50,124,53,133,0 93,122,99,130,0 105,119,113,127,0 148,123,154,133,0 135,115,144,125,1 170,116,177,126,0 194,117,202,128,0 259,120,265,130,0 277,117,281,125,0 293,124,298,132,0 346,87,353,93,0 374,119,378,126,0 352,117,359,126,1 353,103,360,110,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss758.png 224,53,244,73,0 318,48,338,72,0 144,48,180,85,0 66,68,83,85,0 25,57,37,73,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss760.png 89,26,113,56,1 98,96,138,127,1 217,103,252,141,1 350,105,378,139,1 211,160,236,201,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss761.png
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss777.png 49,146,102,201,0 26,82,70,122,0 73,48,102,78,0 137,42,163,74,0 187,52,220,86,0 226,47,248,70,1 285,35,322,71,0 363,32,397,72,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss784.png 17,59,39,82,1 43,59,71,92,0 91,78,120,108,0 110,43,141,77,0 138,82,169,112,0 175,55,204,88,0 235,36,267,71,0 276,67,306,99,0 317,69,343,105,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss795.png 8,1,31,23,1 9,91,31,119,0 86,68,110,92,0 101,7,126,34,0 15,129,35,155,1 1,245,18,284,0 25,218,53,253,0 89,133,111,161,0 185,30,210,53,0 181,67,208,95,0 189,113,214,141,0 133,261,161,294,0 195,211,224,239,0 216,231,246,264,0 254,133,276,159,0 261,66,286,93,0 299,63,323,93,0 334,14,352,36,0 362,90,389,115,0 375,179,400,205,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss803.png 161,170,227,248,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss807.png 19,47,35,61,0 58,42,73,57,0 85,63,93,71,0 108,56,125,69,0 165,28,184,49,0 212,34,230,58,0 274,37,296,62,0 370,22,394,44,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss808.png 109,134,206,253,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss820.png 178,58,247,142,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss821.png 176,94,224,149,0 371,108,400,144,1
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss843.png 1,132,59,215,0 139,128,224,210,0 331,205,400,277,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss85.png 84,54,199,167,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss88.png 42,176,151,304,0
+G:\twhcodes\其他\人脸口罩检测\code/VOCdevkit/VOC2007/JPEGImages/maksssksksss93.png 82,72,104,92,0 150,78,165,94,0 171,78,195,103,0 181,101,207,129,0 219,82,234,97,0 248,76,267,95,0 271,77,297,103,0 292,62,309,82,0 388,72,401,92,0
